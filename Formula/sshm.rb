@@ -2,7 +2,7 @@ class Sshm < Formula
   desc "Terminal UI for SSH Host Management with auto-discovery and intelligent username detection"
   homepage "https://github.com/levanduy093-work/ssh_management"
   url "https://github.com/levanduy093-work/ssh_management/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "102a508018c62aebe1094661fa6cf2456817c7d99da1ad243ef534a3cc81e71a"
   license "MIT"
   head "https://github.com/levanduy093-work/ssh_management.git", branch: "main"
 
